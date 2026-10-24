@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "StudyFlow 3.0",
+    "slug": "studyflow-3",
+    "version": "3.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "edgeToEdgeEnabled": true,
+      "package": "com.studyflow.academico"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
